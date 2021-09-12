@@ -1,0 +1,3 @@
+/home/danny/CLionProjects/The-C-Programming-Language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danny/CLionProjects/The-C-Programming-Language/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/danny/CLionProjects/The-C-Programming-Language/cmake-build-debug/CMakeFiles/The_C_Programming_Language.dir
